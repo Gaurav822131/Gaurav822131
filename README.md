@@ -21,7 +21,7 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 
 - 🔭 Currently working on **CargoMan** - An enterprise logistics management platform with microservices architecture
 - 🌱 Learning advanced **System Design**, **Cloud Architecture**, and **AI/ML** techniques
-- 💡 Interested in **Software Developement**,**Full Stack Development**, **Data Science**, **Machine Learning**, and **Big Data**
+- 💡 Interested in **Software Developement**, **Full Stack Development**, **Data Science**, **Machine Learning**, and **Big Data**
 - 🎯 Goal: To contribute to impactful open-source projects and build innovative solutions
 - 📫 Reach me at: **gaurav822131@gmail.com**
 
