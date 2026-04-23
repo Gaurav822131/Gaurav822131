@@ -172,16 +172,6 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gaurav822131&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 - 🏅 **Introduction to Data Engineering** - AWS (Nov 2025)
@@ -201,25 +191,26 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 
 ---
 
-## 📈 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/Gaurav822131/Gaurav822131/output/github-contribution-grid-snake.svg)
-
 ---
-
-## 💭 Random Dev Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 📈 Activity Graph
+
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav822131&theme=react-dark&hide_border=true&area=true)](https://github.com/Gaurav822131)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+<div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Gaurav822131&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
@@ -236,10 +227,37 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🎯 Current Focus
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Gaurav822131&icon=0&color=3)
+```javascript
+const gaurav = {
+    currentlyLearning: ["System Design", "Cloud Architecture", "Advanced AI/ML"],
+    workingOn: "CargoMan - Enterprise Logistics Platform",
+    lookingFor: "Full Stack Developer & Data Science opportunities",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-**Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Let's Build Something Amazing Together!
+
+### Open for collaborations on innovative projects in:
+🚀 Full Stack Development | 📊 Data Science | 🤖 AI/ML | ☁️ Cloud Solutions
+
+<br>
+
+### 📬 Drop me a message - I'd love to connect!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur8221/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav822131@gmail.com)
+
+<br>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
