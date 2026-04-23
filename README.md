@@ -42,28 +42,55 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 ## 🛠️ Featured Projects
 
 ### 🚛 [CargoMan - Enterprise Logistics Platform](https://github.com/Gaurav822131/CargoMan)
-**Tech Stack:** ASP.NET Core 10, Angular 21, Microservices, CQRS, RabbitMQ, Docker, SQL Server, JWT
+**Jan 2025 – Apr 2026**  
+**Tech Stack:** ASP.NET Core 10, Angular 21, Microservices, CQRS, MediatR, RabbitMQ, MassTransit, Docker, SQL Server, Entity Framework Core, JWT, Ocelot Gateway
 
-- Architected **8 production microservices** using Clean Architecture, DDD, and CQRS with MediatR
-- Implemented event-driven async messaging via **RabbitMQ + MassTransit** for real-time updates
-- Built Angular 21 dashboard with live KPI analytics, fleet tracking, and warehouse management
-- Containerized full stack with **Docker Compose** for zero-config deployment
-- Secured APIs with **JWT RBAC** across 5 user roles
+**Microservices Architecture:**
+- **AuthService** - JWT authentication, Google OAuth 2.0, role-based access control (Admin, Manager, Customer)
+- **ShipmentService** - Real-time shipment tracking, status updates, driver management
+- **WarehouseService** - Inventory management, bin allocation, warehouse receipts
+- **FleetService** - Vehicle fleet tracking and management
+- **BillingService** - Automated billing, invoice generation
+- **CustomerService** - Customer relationship management
+- **NotificationService** - Email notifications with MailKit, SMTP integration
+- **ReportService** - Analytics and business intelligence reports
+- **ApiGateway** - Ocelot-based API gateway with routing and load balancing
 
-### 🤖 AI Voice Assistant
-**Tech Stack:** Python, SpeechRecognition, OpenAI API, LangChain, NLP, PyAudio, pyttsx3
+**Key Achievements:**
+- Architected **8 production microservices** using Clean Architecture, Domain-Driven Design (DDD), and CQRS pattern with MediatR
+- Implemented event-driven async messaging via **RabbitMQ + MassTransit** for real-time shipment updates and automated billing workflows
+- Built Angular 21 SPA with standalone components, signal-based state management, live KPI analytics, fleet tracking, and warehouse management dashboard
+- Secured all APIs with **JWT authentication** and role-based authorization across 5 user roles
+- Integrated **Google OAuth 2.0** for seamless third-party authentication
+- Implemented **FluentValidation** for request validation and **Mapster** for object mapping
+- Used **Serilog** for structured logging across all microservices
+- Containerized full stack with **Docker Compose** for zero-config local deployment
+- Applied **SOLID principles** and **Repository pattern** with Entity Framework Core
+- Implemented **OTP-based email verification** for user registration
+- Built RESTful APIs with **Swagger/OpenAPI** documentation
 
-- Achieved **90%+ command recognition accuracy** with custom wake-word detection
-- Integrated **OpenAI GPT API** and LangChain for context-aware multi-turn conversations
-- Applied NLP techniques (tokenization, NER, intent classification) cutting keyword dependency by **40%**
-- Reduced task execution time by **40%** through intelligent automation
+### 🤖 AI Voice Assistant - NLP-Powered Intelligent Personal Assistant
+**Mar 2025 – Apr 2025**  
+**Tech Stack:** Python, SpeechRecognition, OpenAI GPT API, LangChain, NLP, PyAudio, pyttsx3
 
-### 👤 Face Detector - Real-Time Recognition System
+**Key Features:**
+- Achieved **90%+ command recognition accuracy** using SpeechRecognition + PyAudio with custom wake-word detection
+- Enabled hands-free web browsing, weather updates, and OS-level system controls
+- Integrated **OpenAI GPT API** and **LangChain** for context-aware multi-turn conversations
+- Applied NLP techniques (tokenization, Named Entity Recognition, intent classification) cutting keyword dependency by **40%**
+- Reduced task execution time by **40%** through intelligent automation of repetitive workflows
+- Implemented real-time REST API integrations for dynamic data fetching
+
+### 👤 Face Detector - Real-Time Camera-Integrated Recognition System
+**Jun 2024**  
 **Tech Stack:** Python, OpenCV, CNN, TensorFlow, Keras, Deep Learning
 
-- Built real-time face detection system achieving **75%+ identification accuracy**
-- Optimized inference pipeline with frame-skipping and model quantization
+**Key Achievements:**
+- Built real-time face detection and recognition system using **OpenCV** and custom-trained **CNN** (TensorFlow/Keras)
+- Achieved **75%+ identification accuracy** on live camera feed
+- Optimized inference pipeline with frame-skipping and model quantization techniques
 - Reduced processing latency by **30%** for live security surveillance use cases
+- Implemented real-time video stream processing with multi-face detection capabilities
 
 ---
 
