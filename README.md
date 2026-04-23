@@ -21,7 +21,7 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 
 - 🔭 Currently working on **CargoMan** - An enterprise logistics management platform with microservices architecture
 - 🌱 Learning advanced **System Design**, **Cloud Architecture**, and **AI/ML** techniques
-- 💡 Interested in **Full Stack Development**, **Data Science**, **Machine Learning**, and **Big Data**
+- 💡 Interested in **Software Developement**,**Full Stack Development**, **Data Science**, **Machine Learning**, and **Big Data**
 - 🎯 Goal: To contribute to impactful open-source projects and build innovative solutions
 - 📫 Reach me at: **gaurav822131@gmail.com**
 
@@ -185,7 +185,7 @@ I'm a **Computer Science Engineering student** at Lovely Professional University
 ## 🏆 Achievements
 
 - ⭐ **3-star ratings** in Java and C++ on HackerRank
-- 💯 Solved **100+ problems** on LeetCode and GeeksForGeeks covering DSA, graphs, DP, and system design
+- 💯 Solved **100+ problems** on LeetCode and GeeksForGeeks covering DSA, and system design
 - 🥈 **Smart India Hackathon 2024 Semi-Finalist** - Built functional full-stack prototype in 36 hours
 - 🗣️ **Top Performer** on Communication Skills Leaderboard for technical clarity
 
