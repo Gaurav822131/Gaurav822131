@@ -1,263 +1,217 @@
 <div align="center">
 
-# 👋 Hi, I'm Gaurav Kumar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+%2F+.NET+Engineer;Microservices+%26+System+Design;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 
-### Software Developement Engineer | Full Stack Developer | Data Scientist | AI Enthusiast
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur8221/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav822131)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Gaurav822131/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gaurav822131)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gaurav_thakur_1_1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav822131@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur8221/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav822131)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gaurav822131/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gaurav822131)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav822131@gmail.com)
+
+</div>
+
+<br>
+
+## 🧭 About Me
+
+```yaml
+whoami:
+  name: Gaurav Kumar
+  role: Software Engineer (.NET Full Stack) @ Capgemini India
+  education: B.Tech CSE, Lovely Professional University — Class of 2026
+  builds: Distributed systems, scalable APIs, and the occasional AI tool
+  obsessed_with: Clean architecture, system design, shipping things that work
+  status: Open to Full-Time SDE / Backend / Full Stack roles 🚀
+```
+
+I'm a backend-leaning full stack engineer who likes pulling systems apart to see how they scale. Most of my time goes into **designing microservices that don't fall over under load** — think message queues, API gateways, CQRS, and the unglamorous plumbing that makes an app actually production-ready. I round it out with a Data Science background, so I'm equally comfortable arguing about database indexes and EDA notebooks.
+
+- 🔭 **Currently building:** [CargoMan](https://github.com/Gaurav822131/CargoMan) — an 8-service enterprise logistics platform, and [EduGameHub](https://github.com/Gaurav822131/EduGameHub) — an AI-powered gamified learning platform
+- 🌱 **Currently sharpening:** System design, cloud-native architecture, and applied AI/ML
+- 🥈 **Proof I can ship under pressure:** Smart India Hackathon 2024 Semi-Finalist (36-hour build sprint)
+- 💬 **Ask me about:** Microservices, event-driven architecture, ASP.NET Core, or why your API gateway config is probably the bug
+- ⚡ **Fun fact:** I've debugged distributed transactions across 8 microservices and lived to tell the tale
+
+```javascript
+const gaurav = {
+  currentlyLearning: ["System Design", "Cloud-Native Architecture", "Applied AI/ML"],
+  currentlyBuilding: ["CargoMan", "EduGameHub"],
+  lookingFor: "Full Stack / Backend Engineering roles",
+  funFact: "Ships code, then writes the tests... mostly in that order 😅"
+};
+```
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Architecture**
+<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Frontend**
+<br>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Data & Storage**
+<br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Science / ML**
+<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Big Data**
+<br>
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**DevOps & Tools**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🏗️ Featured Builds
 
-I'm a **Computer Science Engineering student** at Lovely Professional University with a passion for building scalable applications and solving complex problems through data-driven solutions.
+### 🎮 [EduGameHub](https://github.com/Gaurav822131/EduGameHub) — AI-Powered Gamified Learning Platform
+> A full-stack MERN platform that turns studying into a game: XP, streaks, leaderboards, and live multiplayer quizzes, layered with real AI-driven personalization.
 
-- 🔭 Currently working on **CargoMan** - An enterprise logistics management platform with microservices architecture
-- 🌱 Learning advanced **System Design**, **Cloud Architecture**, and **AI/ML** techniques
-- 💡 Interested in **Software Developement**, **Full Stack Development**, **Data Science**, **Machine Learning**, and **Big Data**
-- 🎯 Goal: To contribute to impactful open-source projects and build innovative solutions
-- 📫 Reach me at: **gaurav822131@gmail.com**
+| | |
+|---|---|
+| **Stack** | React 19 · Node.js · Express · MongoDB · Redis · Socket.IO · Google Gemini AI |
+| **Highlights** | 🤖 AI question generation & adaptive difficulty via Gemini · ⚡ Real-time multiplayer quiz rooms with Socket.IO · 🏆 Full gamification engine (XP, badges, streaks, leaderboards) · 📊 Analytics dashboard with exportable PDF reports · 📱 Offline-capable PWA with Redis-backed session caching |
+
+---
+
+### 🚛 [CargoMan](https://github.com/Gaurav822131/CargoMan) — Enterprise Logistics Microservices Platform
+> An 8-service logistics backbone covering shipment tracking, warehousing, fleet, and billing — built the way real production systems are: decoupled, event-driven, and observable.
+
+| | |
+|---|---|
+| **Stack** | ASP.NET Core 10 · Angular 21 · CQRS + MediatR · RabbitMQ + MassTransit · Ocelot Gateway · EF Core · SQL Server |
+| **Highlights** | 🧩 8 independent services under Clean Architecture & DDD · 📨 Event-driven workflows for shipment updates & billing via RabbitMQ · 🔐 JWT + Google OAuth2 across 5 role-based access tiers · 🐳 One-command Docker Compose deployment · 📈 Signal-based Angular SPA with live KPI dashboards |
+
+---
+
+### 🎙️ AI Voice Assistant — NLP-Powered Personal Assistant
+> A hands-free assistant that understands context, not just commands.
+
+| | |
+|---|---|
+| **Stack** | Python · OpenAI GPT API · LangChain · SpeechRecognition · PyAudio |
+| **Highlights** | 🎯 90%+ command recognition with custom wake-word detection · 🧠 Multi-turn, context-aware conversations via LangChain · ⏱️ 40% faster task execution through workflow automation |
+
+---
+
+### 👁️ Face Detector — Real-Time Recognition System
+> A CNN-based detector built for live video, not just static test images.
+
+| | |
+|---|---|
+| **Stack** | Python · OpenCV · TensorFlow · Keras |
+| **Highlights** | 📷 75%+ identification accuracy on live camera feed · ⚡ 30% latency reduction via frame-skipping & quantization · 🧍 Multi-face detection in real time |
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Data Science Intern @ Prodigy Infotech
-**Aug 2024 – Sept 2024 | Remote**
+**Full Stack Engineer Trainee (.NET) · Capgemini India**
+Building production-grade ASP.NET Core + Angular features, working hands-on with REST APIs, microservices, SQL Server, Redis, and RabbitMQ.
 
-- Cleaned and analyzed **10K+ records** using Python and Pandas, improving data accuracy by **25%**
-- Performed feature engineering and EDA, increasing ML model readiness by **15%**
-- Built automated Jupyter Notebook workflows, boosting team productivity by **30%**
-- Delivered structured reports with Matplotlib/Seaborn dashboards for stakeholder decision-making
-
----
-
-## 🛠️ Featured Projects
-
-### 🚛 [CargoMan - Enterprise Logistics Platform](https://github.com/Gaurav822131/CargoMan)
-**Jan 2025 – Apr 2026**  
-**Tech Stack:** ASP.NET Core 10, Angular 21, Microservices, CQRS, MediatR, RabbitMQ, MassTransit, Docker, SQL Server, Entity Framework Core, JWT, Ocelot Gateway
-
-**Microservices Architecture:**
-- **AuthService** - JWT authentication, Google OAuth 2.0, role-based access control (Admin, Manager, Customer)
-- **ShipmentService** - Real-time shipment tracking, status updates, driver management
-- **WarehouseService** - Inventory management, bin allocation, warehouse receipts
-- **FleetService** - Vehicle fleet tracking and management
-- **BillingService** - Automated billing, invoice generation
-- **CustomerService** - Customer relationship management
-- **NotificationService** - Email notifications with MailKit, SMTP integration
-- **ReportService** - Analytics and business intelligence reports
-- **ApiGateway** - Ocelot-based API gateway with routing and load balancing
-
-**Key Achievements:**
-- Architected **8 production microservices** using Clean Architecture, Domain-Driven Design (DDD), and CQRS pattern with MediatR
-- Implemented event-driven async messaging via **RabbitMQ + MassTransit** for real-time shipment updates and automated billing workflows
-- Built Angular 21 SPA with standalone components, signal-based state management, live KPI analytics, fleet tracking, and warehouse management dashboard
-- Secured all APIs with **JWT authentication** and role-based authorization across 5 user roles
-- Integrated **Google OAuth 2.0** for seamless third-party authentication
-- Implemented **FluentValidation** for request validation and **Mapster** for object mapping
-- Used **Serilog** for structured logging across all microservices
-- Containerized full stack with **Docker Compose** for zero-config local deployment
-- Applied **SOLID principles** and **Repository pattern** with Entity Framework Core
-- Implemented **OTP-based email verification** for user registration
-- Built RESTful APIs with **Swagger/OpenAPI** documentation
-
-### 🤖 AI Voice Assistant - NLP-Powered Intelligent Personal Assistant
-**Mar 2025 – Apr 2025**  
-**Tech Stack:** Python, SpeechRecognition, OpenAI GPT API, LangChain, NLP, PyAudio, pyttsx3
-
-**Key Features:**
-- Achieved **90%+ command recognition accuracy** using SpeechRecognition + PyAudio with custom wake-word detection
-- Enabled hands-free web browsing, weather updates, and OS-level system controls
-- Integrated **OpenAI GPT API** and **LangChain** for context-aware multi-turn conversations
-- Applied NLP techniques (tokenization, Named Entity Recognition, intent classification) cutting keyword dependency by **40%**
-- Reduced task execution time by **40%** through intelligent automation of repetitive workflows
-- Implemented real-time REST API integrations for dynamic data fetching
-
-### 👤 Face Detector - Real-Time Camera-Integrated Recognition System
-**Jun 2024**  
-**Tech Stack:** Python, OpenCV, CNN, TensorFlow, Keras, Deep Learning
-
-**Key Achievements:**
-- Built real-time face detection and recognition system using **OpenCV** and custom-trained **CNN** (TensorFlow/Keras)
-- Achieved **75%+ identification accuracy** on live camera feed
-- Optimized inference pipeline with frame-skipping and model quantization techniques
-- Reduced processing latency by **30%** for live security surveillance use cases
-- Implemented real-time video stream processing with multi-face detection capabilities
+**Data Science Intern · Prodigy Infotech** — *Aug 2024 – Sept 2024*
+- Cleaned & analyzed 10K+ records with Python/Pandas, lifting data accuracy by 25%
+- Engineered features and ran EDA that improved ML model readiness by 15%
+- Automated Jupyter workflows, boosting team throughput by 30%
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=database&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EAECD?style=for-the-badge&logoColor=white)
-
-### Backend & APIs
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Big Data
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Analytics & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav822131&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gaurav822131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav822131&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav822131&theme=chartreuse-dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav822131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav822131&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<div align="center">
+
+[![Gaurav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav822131&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gaurav822131)
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## 🏆 Achievements & Certifications
 
-- 🏅 **Introduction to Data Engineering** - AWS (Nov 2025)
-- 🏅 **Data Analytics and Visualization** - Accenture (Sept 2024)
-- 🏅 **Data Structures and Algorithms** - GeeksForGeeks (Aug 2024)
-- 🏅 **Business Intelligence** - Infosys (Aug 2024)
-- 🏅 **Foundation in Cloud Computing** - Amazon Academy (Mar 2023)
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**🏅 Achievements**
+- 🥈 Smart India Hackathon 2024 — Semi-Finalist
+- 💯 100+ problems solved on LeetCode & GeeksForGeeks
+- ⭐ 3-star HackerRank ratings in Java & C++
+- 🗣️ Top performer — Communication Skills Leaderboard
 
-## 🏆 Achievements
+</td>
+<td valign="top" width="50%">
 
-- ⭐ **3-star ratings** in Java and C++ on HackerRank
-- 💯 Solved **100+ problems** on LeetCode and GeeksForGeeks covering DSA, and system design
-- 🥈 **Smart India Hackathon 2024 Semi-Finalist** - Built functional full-stack prototype in 36 hours
-- 🗣️ **Top Performer** on Communication Skills Leaderboard for technical clarity
+**🎓 Certifications**
+- Introduction to Data Engineering — AWS
+- Data Analytics & Visualization — Accenture
+- Data Structures & Algorithms — GeeksForGeeks
+- Business Intelligence — Infosys
+- Foundations of Cloud Computing — Amazon Academy
 
----
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav822131&theme=react-dark&hide_border=true&area=true)](https://github.com/Gaurav822131)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 💻 Coding Activity
+### 🤝 Let's build something worth shipping
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur8221/)
+[![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav822131@gmail.com)
 
-</div>
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 LinkedIn: [Gaurav Kumar](https://www.linkedin.com/in/gauravthakur8221/)
-- 📧 Email: gaurav822131@gmail.com
-- 🐙 GitHub: [@Gaurav822131](https://github.com/Gaurav822131)
-- 💻 LeetCode: [Gaurav822131](https://leetcode.com/u/Gaurav822131/)
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-```javascript
-const gaurav = {
-    currentlyLearning: ["System Design", "Cloud Architecture", "Advanced AI/ML"],
-    workingOn: "CargoMan - Enterprise Logistics Platform",
-    lookingFor: "Full Stack Developer & Data Science opportunities",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Let's Build Something Amazing Together!
-
-### Open for collaborations on innovative projects in:
-🚀 Full Stack Development | 📊 Data Science | 🤖 AI/ML | ☁️ Cloud Solutions
-
-<br>
-
-### 📬 Drop me a message - I'd love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravthakur8221/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav822131@gmail.com)
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<sub>⭐ If something here was useful, a star goes a long way.</sub>
 
 </div>
